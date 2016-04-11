@@ -1,9 +1,9 @@
 # Syllabus
 
-### CLASS TITLE TKTKTK
+### Data Science Boot Camp
 presented by Metis
 
-####instructors: Brian Lange, Mark TKTKT
+####instructors: Brian Lange, Mark Fenner
 
 
 # Goals 
@@ -122,7 +122,7 @@ As a result the class is designed to get you "stuck" from time to time. We don't
 # Contact your instructors: 
 
 ```
-Irmak Sirer // irmak@datasco.pe
+Mark Fenner // mfenner@gmail.com
 
-Brian Lange // brian@datasco.pe
+Brian Lange // brian@datascope.co
 ```
