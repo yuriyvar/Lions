@@ -1,7 +1,8 @@
 # Submitting your first assignment via GitHub! (required)
-* Make a fork of [the class repo](https://github.com/thisismetis/capitalone-pilottwo) and clone your fork to your computer 
+* Make a fork of [the class repo](https://github.com/thisismetis/capitalone-pilottwo) and clone your fork to your computer
+* Make a branch called 'day1' on your computer and switch to it.
 * Create a file in the `day_01` directory titled `hello_world.md`, type some text in it, and commit and push your updates to your fork.
-* Make a pull request from the master branch of your fork to the master branch of [the class repo](https://github.com/thisismetis/capitalone-pilottwo).
+* Make a pull request from the 'day1' branch of your fork to the master branch of [the class repo](https://github.com/thisismetis/ct16_cap1_ds4).
 
 ## Finished? some optional things to do:
 
