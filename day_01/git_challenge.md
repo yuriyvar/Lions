@@ -7,7 +7,7 @@
 ## Finished? some optional things to do:
 
 ### Finish any installation pieces you need to complete
-If you needed to type in your Github login everytime you cloned or pushed, you can [set up SSH keys with Github to avoid this in the future](https://help.github.com/articles/generating-ssh-keys/#step-4-add-your-ssh-key-to-your-account)
+See the [installed checklist](installed_checklist.md). If you needed to type in your Github login everytime you cloned or pushed, now's a good time to [set up a credential manager for your OS](https://help.github.com/articles/caching-your-github-password-in-git/).
 
 ### Learn more about Markdown and experiment
 The ".md" on the end of that file you created stands for Markdown. Markdown is a markup language that makes it easy to write rich text on the web. Its syntax is natural and readable, and it compiles to HTML. GitHub, iPython Notebook, StackExchange, and others allow users to write in Markdown.
